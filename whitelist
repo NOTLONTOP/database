@@ -1,4 +1,4 @@
-if hwid == "53bad327ca0e406565e76341f12c8a4e2c40eaba87f7867ddfe19f7827799fc48a481d031ad3499eeac362fa5dbc5b55fb1c48b95e3d8653e58b1d9d5ef4c012" then
+if hwid == "" then
 whitelisted = true
 elseif hwid == "a" then
 whitelisted = true
@@ -15,4 +15,19 @@ elseif hwid == "another one" then
     
     elseif hwid == "another one" then
         whitelisted = true
+        
+        elseif hwid == "another one" then
+        whitelisted = true
+        elseif hwid == "another one" then
+        whitelisted = true
+        elseif hwid == "another one" then
+        whitelisted = true
+        elseif hwid == "another one" then
+        whitelisted = true
+        elseif hwid == "another one" then
+        whitelisted = true
+        elseif hwid == "another one" then
+        whitelisted = true
+        
+        
 end
